@@ -1,5 +1,6 @@
 window.onload = init;
 
-function init(){
+function init()
+{
 document.getElementById("test").innerHTML = "Hello Worldy!";
 }
