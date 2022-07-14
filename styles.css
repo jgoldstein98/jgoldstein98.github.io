@@ -1,14 +1,23 @@
-body
+#index
 {
   background: url(Images/flight.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;	
+
 }
 .px-3
 {
 	text-shadow: 2px 2px #000000;
 	background: rgba(0, 0, 0, .5);
 	border-radius: 20px;
+}
+#bio
+{
+  font-size: 12px;
+}
+#contain
+{
+  height = 100vh;
 }
